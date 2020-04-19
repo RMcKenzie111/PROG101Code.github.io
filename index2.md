@@ -45,7 +45,7 @@
 			</section>
 			<section>
 				<h4>HTML & CSS I</h4>
-				<a href="index3.html">All of my Work got D3l3t3d:)
+				<a href="index3.md">All of my Work got D3l3t3d:)
 					<img src="htmlandcssimage.jpg">
 				</a>
 			</section>
