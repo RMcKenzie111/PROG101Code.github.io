@@ -27,7 +27,7 @@
 			</section>
 			<section>
 				<h3>Non-Linear Processes</h3>
-				<a href="NonLinearProcesses.html">Twine is Gr8t 4 Beginners
+				<a href="NonLinearProcesses.md">Twine is Gr8t 4 Beginners
 					<img src="nonlinearprocessimage.jpg">
 				</a>
 			</section>
