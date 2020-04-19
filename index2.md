@@ -15,7 +15,7 @@
 			<section class="teaser col-1-3">
 				<h3>Pseudo Code</h3>
 				<a href="PsuedoCode.md">B@sic, B@sic Thingz
-					<img src="Psuedocodeimage.png">
+					<img src="psuedocodeimage.jpeg">
 				</a>		
 			</section>
 			<section class"teaser col-l-3">
