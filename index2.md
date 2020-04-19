@@ -33,7 +33,7 @@
 			</section>
 			<section>
 				<h3>Processing</h3>
-				<a href="Processing.html">Took a bit l0ng3r than building a snowman.
+				<a href="Processing.md">Took a bit l0ng3r than building a snowman.
 					<img src="processingimage.png">
 				</a>
 			</section>
