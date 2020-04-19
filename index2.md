@@ -21,7 +21,7 @@
 			</section>
 			<section class"teaser col-l-3">
 				<h3>Flow Chart a Process</h3>
-				<a href="FlowChartAProcess.html">Flow charts R useful and C00l
+				<a href="FlowChartAProcess.md">Flow charts R useful and C00l
 					<img src="flowchartimage.jpg">
 				</a>	
 			</section>
