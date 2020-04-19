@@ -39,7 +39,7 @@
 			</section>
 			<section>
 				<h3>Data Visualization</h3>
-				<a href="DataVisualization.md">D@ta is B3ttr 2 C.
+				<a href="DataVisualization.md"> D@ta is B3ttr 2 C.
 					<img src="processingdatavisualimage.png">
 				</a>
 			</section>
