@@ -47,7 +47,6 @@
 				<a href="index3.md">All of my Work got D3l3t3d:)
 					<img src="htmlandcssimage.jpg">
 				</a>
-			</section>
-		</section>		
-	</body>
+			</section>		
+		</body>
 </html>
